@@ -1,0 +1,17 @@
+{
+  "name": "evil-wizard",
+  "version": "1.0.0",
+  "description": "smart contract for evil wizard nft collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azim Baig",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
