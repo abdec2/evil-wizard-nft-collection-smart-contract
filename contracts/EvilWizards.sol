@@ -19,7 +19,7 @@ contract EvilWizards is ERC721, ERC721Enumerable, Pausable, Ownable {
     string public notRevealedUri =
         "ipfs://QmVxBAqrJoTxYWmTEX4jaQJ8ESANjZLTvN3i4z4aqRwbYb";
 
-    constructor() ERC721("Evill Wizards", "EWZ") {}
+    constructor() ERC721("Evil Wizards", "EWZ") {}
 
     fallback() external payable {}
 
